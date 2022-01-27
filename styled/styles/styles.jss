@@ -13,11 +13,11 @@ body {
 }
 
 .table {
-    text-align: center
+    text-align: center;
 }
 
 .title {
-    padding: 0 100px
+    padding: 0 100px;
 }
 
 #yt {
